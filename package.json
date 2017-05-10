@@ -38,7 +38,7 @@
     "react-native": ">=0.28.0"
   },
   "dependencies": {
-    "react-native-background-fetch":"~2.0.3",
+    "react-native-background-fetch":"2.0.3",
     "cocoa-lumberjack":"^3.0.3"
   }
 }
